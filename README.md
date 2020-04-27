@@ -4,4 +4,5 @@
 
 Download all and open the ep.htm and all will be clear!
 
-###### Copyright 2020 [phpSoftware](https://github.com/phpSoftware/)
+###### powered 2020 [phpSoftware](https://github.com/phpSoftware/)
+
